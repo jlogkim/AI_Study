@@ -2,6 +2,10 @@
 AI Study Repository for manage codes and link to study
 
 
+## Base Lecture
+
+https://darkpgmr.tistory.com/106?category=460967
+
 
 ## Computer Vision
 
